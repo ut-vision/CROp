@@ -1,7 +1,5 @@
 # Constrained Rotation Optimization (CROp)
 
----
-
 This repository provides a lightweight implementation of the preprocessing methods presented in our ECCV 2026 paper, Constrained Rotation Optimization: Revisiting Crop-Based Gaze Estimation.
 
 The code is designed to be easy to integrate into existing appearance-based gaze-estimation pipelines. 
