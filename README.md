@@ -77,7 +77,7 @@ If you find this code useful, please consider citing our paper:
 @inproceedings{santambrogio2026crop,
   title     = {Constrained Rotation Optimization: Revisiting Crop-Based Gaze Estimation},
   author    = {Santambrogio, Riccardo and Qin, Jiawei and Matteucci, Matteo and Sugano, Yusuke},
-  booktitle = {Computer Vision -- ECCV 2026},
+  booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
   year      = {2026},
   pages     = {362--379},
   publisher = {Springer},
